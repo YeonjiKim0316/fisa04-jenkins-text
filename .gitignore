@@ -8,4 +8,5 @@ migrations/
 
 test.db
 
+# 환경변수
 .env
